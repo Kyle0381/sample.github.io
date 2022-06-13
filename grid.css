@@ -1,0 +1,39 @@
+.header {
+    display: grid;
+    height: 15vh;
+    background-color: greenyellow;
+    padding-top: 2%;
+    padding-left: 2%;
+}
+.nav {
+    height: 70vh;
+    background-color: #f3efc9;
+    padding-top: 10%;
+    padding-left: 10%;
+   
+}
+.container {
+    display: grid;
+    grid-template-columns: 15vw 70vw 15vw;
+}
+.article {
+    height: 70vh;
+    padding-top: 2%;
+    padding-left: 2%;
+}
+.aside{
+height: 70vh;
+background-color: #f3efc9;
+padding-top: 10%;
+padding-left: 10%;
+}
+*{
+    margin: 0%;
+}
+.footer{
+    display: grid;
+    height: 15vh;
+    background-color: greenyellow;
+    padding-top: 2%;
+    padding-left: 2%;
+}
